@@ -1,0 +1,86 @@
+/*Colaborate*/
+@font-face {
+	font-family: "ColaborateMedium";
+	src: url("../font/Colaborate/ColabMed.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ColaborateRegular";
+	src: url("../font/Colaborate/ColabReg.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ColaborateLight";
+	src: url("../font/Colaborate/ColabLig.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ColaborateThin";
+	src: url("../font/Colaborate/ColabThi.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*AlexandriaFLF*/
+@font-face {
+	font-family: "AlexandriaFLF";
+	src: url("../font/AlexandriaFLF/AlexandriaFLF.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "AlexandriaFLFBold";
+	src: url("../font/AlexandriaFLF/AlexandriaFLFBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*Calibri*/
+@font-face {
+	font-family: "Calibri";
+	src: url("../font/Calibri/calibri.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*ChunkFive*/
+@font-face {
+	font-family: "ChunkFive";
+	src: url("../font/ChunkFive/Chunkfive.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*Contra*/
+@font-face {
+	font-family: "Contra";
+	src: url("../font/Contra/CONTRA.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "ContraL";
+	src: url("../font/Contra/CONTRAL.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*Flare Light Gothic*/
+@font-face {
+	font-family: "FlareLightGothic";
+	src: url("../font/Flare Light Gothic/Flare Light Gothic Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*Franklin gothic*/
+@font-face {
+	font-family: "Franklingothic";
+	src: url("../font/FRANKLIN GOTHIC/FRABK.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/*FreePortPlain*/
+@font-face {
+	font-family: "FreePortPlain";
+	src: url("../font/FreePortPlain/freeport.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
