@@ -107,7 +107,6 @@ body {
 
 }
 	.slider_list_wrapper {
-		width: 6000px;
 		display: flex;
 		flex-wrap: wrap;
 	}
@@ -164,14 +163,6 @@ body {
 						margin: 35px 0 0 0;
 						width: 179px;
 						height: 43px;
-						background-color: #14488f;
-						outline: none;
-						border-radius: 5px;
-						border-top: 1px solid #6f9bd9;
-						border-right: 1px solid #6f9bd9;
-						border-left: 1px solid #6f9bd9;
-						font-family: ColaborateMedium;
-						color: #ffffff;
 						font-size: 23px; /* Приближение из-за подстановки шрифтов */
 						font-weight: 500;
 						line-height: 23.01px; /* Приближение из-за подстановки шрифтов */
@@ -179,6 +170,7 @@ body {
 						float: right;
 					}
 					.slide_text_button {
+						padding: 10px 25px;
 						text-decoration: none;
 						outline: none;
 						font-family: ColaborateMedium;
