@@ -601,12 +601,7 @@ body {
 	}
 
 		.content__info__button {
-			margin: 0 0 0 10px;
 			display: inline-block;
-			width: 130px;
-			height: 34px;
-			text-align: center;
-			vertical-align: center;
 		}
 
 		.content__info__button a{
@@ -618,6 +613,7 @@ body {
 			font-size: 19px; /* Приближение из-за подстановки шрифтов */
 			font-weight: 400;
 			line-height: 35px; /* Приближение из-за подстановки шрифтов */
+			border-radius: 5px;
 			background: #296ac2;
 			background: -moz-linear-gradient(top, #296ac2 0%, #0f4085 100%);
 			background: -webkit-linear-gradient(top, #296ac2 0%,#0f4085 100%);
