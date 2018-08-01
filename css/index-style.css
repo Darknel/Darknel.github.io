@@ -582,7 +582,7 @@ body {
 	}
 
 		.footer__left__form__wrapper {
-			width: 480px;
+			width: 50%;
 		}
 		
 			.footer__left__form__wrapper__title {
@@ -662,11 +662,6 @@ body {
 					padding: 0px 10px 0 0px;
 				}
 
-
-			.footer__right__form__wrapper {
-					width: 425px;
-			}
-
 				.footer__right__form__wrapper__title{
 					margin: 20px 0 10px 0;
 					font-family: ColaborateLight;
@@ -740,17 +735,12 @@ body {
 
 
 		.footer__copyright__p{
-			position: relative;
-			float: none;
-			width: 352px;
-			height: 12px;
 			margin: 0 auto;
 			font-family: ColaborateLight;
 			color: rgba(255, 255, 255, 0.55);
 			font-size: 14px; /* Приближение из-за подстановки шрифтов */
 			font-weight: 300;
 			line-height: 15.01px; /* Приближение из-за подстановки шрифтов */
-			text-align: left;
 		}
 
 
