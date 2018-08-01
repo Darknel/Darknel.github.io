@@ -572,6 +572,7 @@ body {
 
 	.footer__middle {
 		max-width: 1200px;
+		margin: 0 auto;
 		display: flex;
 		display: -webkit-flex;
 		justify-content: space-around;
