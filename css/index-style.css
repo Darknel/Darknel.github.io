@@ -520,7 +520,7 @@ body {
 		}
 
 .footer {
-	padding: 0 10px;
+	padding: 25px 10px;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#58586f+0,323245+45 */
 	background: rgb(88,88,111); /* Old browsers */
 	background: -moz-radial-gradient(center, ellipse cover, rgba(88,88,111,1) 0%, rgba(50,50,69,1) 45%); /* FF3.6-15 */
@@ -532,7 +532,7 @@ body {
 	.footer__top {
 		max-width: 1200px;
 		margin: 0 auto;
-		padding: 25px 0 0 0;
+		padding: 0;
 		display: flex;
 		display: -webkit-flex;
 		justify-content: space-around;
