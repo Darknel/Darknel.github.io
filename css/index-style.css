@@ -944,9 +944,6 @@ body {
 		width: auto;
 		margin: 0 auto;
 	}
-	.slide_img img {
-		width: auto;
-	}
 	/* content */
 	.content__col {
 		max-width: 510px;
