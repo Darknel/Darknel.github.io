@@ -101,7 +101,7 @@ body {
 /*-------------SLIDER---------------*/
 .slider_wrapper {
 	position: relative;
-	width: 100%;
+	width: 90%;
 
 }
 	.slider_list_wrapper {
@@ -975,6 +975,10 @@ body {
 	/* slider */
 	.slider_wrapper {
 		margin-top: 50px;
+	}
+	.slide_img  {
+		width: auto;
+		margin: 0;
 	}
 	/* content */
 	.content__flex__wrapper {
